@@ -1,0 +1,79 @@
+body{
+	scroll-behavior: smooth;
+}
+
+
+
+#box{
+
+	min-height: 100%; 
+	min-height: 100vh;    
+
+}
+
+#space{
+	margin-top: auto;
+}
+
+
+#landing {
+	background-image: url("https://images.pexels.com/photos/89102/pexels-photo-89102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+  
+}
+
+#aboutme, #contactme, #projects{
+	background-image: url('https://images.pexels.com/photos/937782/pexels-photo-937782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1{
+	font-family: 'Merienda One', cursive;
+	font-size: 25px;
+}
+
+#mainpage{
+	background-color: rgba(0,0,0,0.25);
+	font-family: 'Damion', cursive;
+	font-size: 25px;
+	color: #fadadd;
+}
+
+#main{
+	
+	font-family: 'Damion', cursive;
+	font-size: 25px;
+}
+
+#mainnav{
+	opacity: 0.5;
+	position: fixed;
+}
+
+#navtitle{
+	font-family: 'Parisienne', cursive;
+	font-weight: bold;
+	color: #d3998f;
+	font-size: 35px;
+	text-shadow: 2px 2px black;
+
+}
+
+#color{
+	color: red;
+}
+
+#capstitle{
+	font-family: 'Damion', cursive;
+	font-size: 25px;
+	text-shadow: 1px 1px lightpink;
+}
+
+#button1:hover{
+
+  background-color: #2b1d0e;
+}
