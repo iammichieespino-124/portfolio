@@ -153,7 +153,7 @@ function App() {
          </div>
        </section>
 
-       <section id="contactme" className="d-flex align-items-center">
+       <section id="contactme" className="d-flex align-items-center pb-5">
           <div className="container">
             <div className="row">
               <div className="col-12">
@@ -185,31 +185,31 @@ function App() {
        </section>
      </main>
 
-     <footer class="page-footer font-small bg-transparent pt-4">
+     <footer className="page-footer font-small bg-transparent pt-4">
 
        
-       <div class="container-fluid text-center text-md-left">
+       <div className="container-fluid text-center text-md-left">
 
         
-         <div class="row">
+         <div className="row">
 
            
-           <div class="col-md-6 mt-md-0 mt-3">
+           <div className="col-md-6 mt-md-0 mt-3">
 
          
-             <h5 class="text-uppercase">Online Portfolio</h5>
+             <h5 className="text-uppercase">Online Portfolio</h5>
              <p>The images and graphics used in this page, was not all mine.
              It's just for the Online Portfolio Presentation</p>
 
            </div>
          
 
-           <hr class="clearfix w-100 d-md-none pb-3"/>
+           <hr className="clearfix w-100 d-md-none pb-3"/>
 
     
-           <div class="col-md-3 mb-md-0 mb-3">
+           <div className="col-md-3 mb-md-0 mb-3">
 
-             <h5 class="text-uppercase">Social Medias:</h5>
+             <h5 className="text-uppercase">Social Medias:</h5>
 
              <p className="text-center">
               <a href="https://www.facebook.com/michelle.espino24">
@@ -233,7 +233,7 @@ function App() {
 
        </div>
 
-       <div class="footer-copyright text-center py-3">© 2020 Copyright:
+       <div className="footer-copyright text-center py-3">© 2020 Copyright:
          <p> Michelle Lauren Espino | Online Portfolio</p>
        </div>
 

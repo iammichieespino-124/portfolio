@@ -12,11 +12,11 @@ body{
 }
 
 #space{
-	margin-top: auto;
+	margin-top: auto;  
 }
 
 
-#landing {
+#landing, footer {
 	background-image: url("https://images.pexels.com/photos/89102/pexels-photo-89102.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
 	background-position: center;
 	background-repeat: no-repeat;
